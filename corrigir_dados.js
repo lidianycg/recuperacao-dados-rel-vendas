@@ -1,4 +1,4 @@
-const fs = require("fs/promises"); // Usando fs.promises para evitar callback hell
+const fs = require("fs/promises"); 
 
 const caminhoArquivos = [
   "./broken_database_1.json",
